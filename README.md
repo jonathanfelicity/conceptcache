@@ -1,6 +1,3 @@
-# conceptcache
----
-
 # Projects Ideas
 
 Assembly

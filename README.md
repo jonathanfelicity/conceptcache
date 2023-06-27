@@ -397,5 +397,3 @@ C projects idea
         5. Analytics service: For collecting app usage data and generating insights, you can use languages like Python, R, or Java. For databases, you can use PostgreSQL, MongoDB, or Elasticsearch.
         6. Notification service: For handling notifications, you can use languages like Node.js, Python, or Java. For databases, you can use MongoDB or Redis.
         7. Billing service: For handling billing and payment processing, you can use languages like Python, Java, or Node.js. For databases, you can use PostgreSQL, MongoDB, or MySQL.
-
-[kenitiq](https://www.notion.so/kenitiq-99f8da7b885e4e9bad9e7e4a9b830c2a?pvs=21)
